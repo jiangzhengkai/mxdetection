@@ -1,12 +1,23 @@
+# mxdetection
+
+
 ## Introduction
 
 mxdetection is an open source object detection toolbox based on Mxnet.
 
+
+
 ### Major features
 
+
 - **Modular Design**
+
+
 - **Efficient**
+
 - **State of the art**
+
+
 
 ```
 mxnet-detection
@@ -54,5 +65,3 @@ pip install easydict
 ```
 pip install opencv-python
 ```
-
-### Under Developing
